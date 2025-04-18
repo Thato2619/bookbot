@@ -12,4 +12,6 @@ def count_characters(text):
             chars[char] = 1
     return chars
 
+    def sort_on(chars):
+        return chars[char]
     
